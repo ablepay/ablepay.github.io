@@ -1,3 +1,7 @@
 .creAmountField {
   display: none;
 }
+
+.creNameField {
+  color: red;
+}
