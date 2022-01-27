@@ -1,7 +1,23 @@
-.creAmountField {
-  display: none;
+#theForm {
+  position: relative;
+  
 }
 
-.creNameField {
-  color: red;
+#paymentInfo {
+  position: absolute;
+    left: 0;
+}
+#addressInfo {
+  position: absolute;
+    right: 0;
+}
+#cancelButton {
+  position: absolute;
+    bottom: 0;
+}
+.hps-form-group {
+  position: absolute;
+  top: 150px;
+    /* margin: auto; */
+  left: 200px;
 }
